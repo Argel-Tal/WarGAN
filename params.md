@@ -1,4 +1,5 @@
 **params tried**: 
+
 Run 1
 
 - lr = 0.0002
