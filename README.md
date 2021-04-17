@@ -21,6 +21,7 @@ Current thoughts:
 
 ### Visualisation of Model Training: 
 Need to click on and open, doesn't loop
+
 ![traniningAnimation](https://user-images.githubusercontent.com/80669114/114508870-fa138280-9c88-11eb-939d-fcc239fb65fa.gif)
 
 
