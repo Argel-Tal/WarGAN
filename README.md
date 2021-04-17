@@ -20,7 +20,7 @@ Current thoughts:
 ![dream2](https://user-images.githubusercontent.com/80669114/114269809-f7344a00-9a5c-11eb-90d0-edb21fb157ef.jpg)
 
 
-
+## Open access to the Generator file:
 The final *.h5* model file used to generate images is too large to upload to Github. Will find a work around, hosting it somewhere else, so people can use the generator file to create local instances.
 
 That, said, as the image distribution is fairly small, even with large batch sizes, the Discriminator converges a fairly stable representation of the whole dataset earlier than the Generator, so Generator doesn't get to try multiple strategies. As a result, the Generator file from a specific training session will create almost identical images, even with different random inputs (*"latent points"*)
