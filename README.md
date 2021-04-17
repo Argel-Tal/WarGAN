@@ -20,7 +20,7 @@ Current thoughts:
 ![dream2](https://user-images.githubusercontent.com/80669114/114269809-f7344a00-9a5c-11eb-90d0-edb21fb157ef.jpg)
 
 ### Visualisation of Model Training: 
-Need to click on and open, doesn't loop
+*(You might need to click on and open it, as it doesn't loop and might have played through while the page was buffering)*
 
 ![traniningAnimation](https://user-images.githubusercontent.com/80669114/114508870-fa138280-9c88-11eb-939d-fcc239fb65fa.gif)
 
