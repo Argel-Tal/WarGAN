@@ -19,6 +19,10 @@ Current thoughts:
 
 ![dream2](https://user-images.githubusercontent.com/80669114/114269809-f7344a00-9a5c-11eb-90d0-edb21fb157ef.jpg)
 
+### Visualisation of Model Training:
+![traniningAnimation](https://user-images.githubusercontent.com/80669114/114508870-fa138280-9c88-11eb-939d-fcc239fb65fa.gif)
+
+
 
 ## Open access to the Generator file:
 The final *.h5* model file used to generate images is too large to upload to Github. Will find a work around, hosting it somewhere else, so people can use the generator file to create local instances.
