@@ -22,7 +22,7 @@ This "collective memory", is made up of the features of the images, and the way 
 
 
 ## Algorithm
-The skeleton of the code taken from: https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/
+The skeleton code of this project is based on code taken from: https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/
 
 ### Generator code:
 This is the architecture for the agent twin responsible for learning how to create new original images, the creative twin. From random noise, this agent is able to create images which fit the aesethic of INQ28, by implementing rules it's developed and learned autonomously.
