@@ -10,7 +10,7 @@ This "collective memory", is made up of the features of the images, and the way 
 ![test](https://user-images.githubusercontent.com/80669114/114171485-73a92900-9988-11eb-9cbc-7b644b133ae5.jpg) 
 
 ## Plan
-At this point I've found model parameters which produce interesting outputs. Model doesn't collapse, which is always nice. Seems to be able to pull itself out of weird pits, so no more mode collapse!! 😃 🎆 
+At this point I've found model parameters which produce interesting outputs. Model doesn't collapse, which is always nice. Seems to be able to pull itself out of weird pits, so no more mode collapse!! 🎆🎆 
 
 Model outputs have distinct silhuettes, and have decent levels of internal texture/detailing, which fit the INQ28 style.
 
@@ -25,7 +25,7 @@ Model outputs have distinct silhuettes, and have decent levels of internal textu
 
 
 ## Visualisation of Model Training: 
-*(You might need to click on and open it, as the GIF doesn't loop and might have played through while the page was buffering)*
+*You might need to click on and open it, as the GIF doesn't loop and might have played through while the page was buffering*
 
 ![traniningAnimation](https://user-images.githubusercontent.com/80669114/114508870-fa138280-9c88-11eb-939d-fcc239fb65fa.gif)
 
