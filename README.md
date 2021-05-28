@@ -45,6 +45,7 @@ Every 10 generations (i) the model is saved, and an image is generated and saved
 * It's looking like a Learning Rate of *0.00015* produces viable images, *lr=0.0002* tends to be dark blobs surrounded by gritty noise, while at *lr=0.0001* the drop off in improvement from more epochs doesn't allow enough time for the Generator to improve sufficently, resulting in white grainy images.
 * Batch size seems to be the most significant variable for whether it creates distinct images or noisey blobs.
 * Epochs greater than 50 seem to produce negligible improvements. After many many generations (in this case *epochs > 300*), the Generator develops weird strategies and gets too good at beating the Discriminator, and is able to fool the Discriminator with it's images, even though they wouldn't pass a human test. The Generator learns to exploit a difference between real images and how the Discriminator internalises real images, a symptom caled *"mode collapse"*, resulting in weird outputs like this: 
+
 ![dream2](https://user-images.githubusercontent.com/80669114/114269809-f7344a00-9a5c-11eb-90d0-edb21fb157ef.jpg)
 
 * Current objective is to add more detail to the images. I'm looking into super resolution GANs which are mostly used in image restoration and de-blurring of existing images. Haven't assessed the additional gains of what little I've implemented for this yet.
